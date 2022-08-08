@@ -1,0 +1,11 @@
+class Jogador{
+	Username: string
+	Email: string
+	Idade: int
+	Controle: double
+	
+	constructor(){
+		Manusear():void
+		Cadastrar():void
+	}
+}
